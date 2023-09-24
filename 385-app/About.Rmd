@@ -1,0 +1,18 @@
+## Author
+
+-**Name:** Minghao Shi
+
+-**Netid:** mshi18
+
+-**Email:** mshi18@illinois.edu
+
+## Purpose
+My app reflect the relationship between year and location which is home/away game. When User changes the year, the home/away game will also change to the corresponding location. Also, my app visualized the data between opponent score and opponent, and use the bar graph to reflect the relationship. Furthermore, when we choose different data and change the graph, the table will also be changed to reflect the different value of opponent and opponent score. 
+
+
+## Data
+In my final project, "w" means that our Illinois team wins the football game in that round during selected season. "L" means that our team lose the football game. "T" means that the team doesn't win and doesn't lose the football game. "NA" means that we cant find the information for our team in the specific season.
+"@" means the away game and "vs." means the home game. And other word means that the game held on others locations that are not belong to away game and home game. 
+
+## Reference
+wadefagen dataset. Retrieved from: https://raw.githubusercontent.com/wadefagen/datasets/master/illini-football/illini-football-scores.csv
